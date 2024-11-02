@@ -1,0 +1,9 @@
+2024-08-16 11:12:24,988 : INFO : test_logging : info about the case
+2024-08-16 11:12:24,988 : WARNING : test_logging : something is in waring mode
+2024-08-16 11:12:24,988 : ERROR : test_logging : A major error has occured
+2024-08-16 11:12:25,008 : INFO : test_logging : info about the case
+2024-08-16 11:12:25,008 : INFO : test_logging : info about the case
+2024-08-16 11:12:25,008 : WARNING : test_logging : something is in waring mode
+2024-08-16 11:12:25,008 : WARNING : test_logging : something is in waring mode
+2024-08-16 11:12:25,008 : ERROR : test_logging : A major error has occured
+2024-08-16 11:12:25,008 : ERROR : test_logging : A major error has occured
